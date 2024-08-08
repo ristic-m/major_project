@@ -3,5 +3,5 @@ transformers
 datasets
 torch
 numpy
-ffmpeg
+ffmpeg-python
 sentencepiece
